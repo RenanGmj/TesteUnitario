@@ -12,3 +12,4 @@ C:\Users\4Gamers\Desktop\Projetos\ModuloTeste\Calculadora\obj\Debug\net8.0\refin
 C:\Users\4Gamers\Desktop\Projetos\ModuloTeste\Calculadora\obj\Debug\net8.0\calculadora.pdb
 C:\Users\4Gamers\Desktop\Projetos\ModuloTeste\Calculadora\obj\Debug\net8.0\calculadora.genruntimeconfig.cache
 C:\Users\4Gamers\Desktop\Projetos\ModuloTeste\Calculadora\obj\Debug\net8.0\ref\calculadora.dll
+c:\Users\4Gamers\Desktop\Projetos\ModuloTeste\Calculadora\obj\Debug\net8.0\calculadora.sourcelink.json

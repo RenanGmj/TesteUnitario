@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\4Gamers\\Desktop\\Projetos\\ModuloTeste\\calculadora\\calculadora.csproj": {}
+    "C:\\Users\\4Gamers\\Desktop\\Projetos\\ModuloTeste\\Calculadora\\calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\4Gamers\\Desktop\\Projetos\\ModuloTeste\\calculadora\\calculadora.csproj": {
+    "C:\\Users\\4Gamers\\Desktop\\Projetos\\ModuloTeste\\Calculadora\\calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\4Gamers\\Desktop\\Projetos\\ModuloTeste\\calculadora\\calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\4Gamers\\Desktop\\Projetos\\ModuloTeste\\Calculadora\\calculadora.csproj",
         "projectName": "calculadora",
-        "projectPath": "C:\\Users\\4Gamers\\Desktop\\Projetos\\ModuloTeste\\calculadora\\calculadora.csproj",
+        "projectPath": "C:\\Users\\4Gamers\\Desktop\\Projetos\\ModuloTeste\\Calculadora\\calculadora.csproj",
         "packagesPath": "C:\\Users\\4Gamers\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\4Gamers\\Desktop\\Projetos\\ModuloTeste\\calculadora\\obj\\",
+        "outputPath": "C:\\Users\\4Gamers\\Desktop\\Projetos\\ModuloTeste\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\4Gamers\\AppData\\Roaming\\NuGet\\NuGet.Config",
